@@ -1,4 +1,9 @@
+# Emerson Broga's NEXTJS13 with Tailwind Starter Project.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Then I just added [TailwindCSS](https://tailwindcss.com/docs/guides/nextjs).
+
+I'll use this starter project on my [YouTube Channel](https://emersonbroga.com/youtube).
 
 ## Getting Started
 
