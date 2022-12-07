@@ -1,39 +1,39 @@
-# Emerson Broga's NEXTJS13 with Tailwind Starter Project.
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+https://youtu.be/
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-Then I just added [TailwindCSS](https://tailwindcss.com/docs/guides/nextjs).
+# Zoom/Lupa de Imagens com React
 
-I'll use this starter project on my [YouTube Channel](https://emersonbroga.com/youtube).
+Hoje quero mostrar como criar esse efeito de zoom/lupa usando React.
+Um projeto simples porem bem interessante para adicionar ao portfolio.
 
-## Getting Started
+Esse projeto é parte do video que foi disponibilizado no meu canal do youtube.
 
-First, run the development server:
+[![!Zoom/Lupa de Imagens com React](http://i3.ytimg.com/vi/0lKY0J26L64/maxresdefault.jpg)](https://www.youtube.com/watch?v=0lKY0J26L64)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Esse repositório e o video têm fins educativos.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+#### Se ainda não segue, veja minhas outras Redes Sociais
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+[![instagram.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/instagram.png?raw=true)](https://emersonbroga.com/instagram)
+[![youtube.com/c/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/youtube.png?raw=true)](https://emersonbroga.com/youtube)
+[![facebook.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/facebook.png?raw=true)](https://emersonbroga.com/facebook)
+[![twitter.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/twitter.png?raw=true)](https://emersonbroga.com/twitter)
+[![github.com/emersonbroga](https://github.com/emersonbroga/social-media-snippets/blob/master/static/github.png?raw=true)](https://emersonbroga.com/github)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Você fez também?
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Se você fizer o projeto também, me manda o link que eu coloco aqui, ou então envia uma PR!
 
-## Learn More
+- [@emersonbroga](https://github.com/emersonbroga/react-image-zoom)
 
-To learn more about Next.js, take a look at the following resources:
+## Como rodar o projeto
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Faça o clone do projeto
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Entre na pasta do projeto
 
-## Deploy on Vercel
+Instale as dependencias com `npm install` ou `yarn install`
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Inicialize o projeto com `npm run dev` ou `yarn dev`
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Abra [http://localhost:3000](http://localhost:3000) no seu browser.
